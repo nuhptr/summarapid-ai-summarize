@@ -2,7 +2,7 @@
 
 Building SASS website to summarize scientific articles / another file.
 
-![Images](https://github.com/nuhptr/summarapid-ai-summarize/assets/50306963/2e2a6840-cfcf-4b4d-b7ce-826c38dacc51)
+![summarize image](https://github.com/nuhptr/summarapid-ai-summarize/assets/50306963/0571b341-4250-4ac9-b3a2-8b4b3e30e6b0)
 
 
 ## Note
