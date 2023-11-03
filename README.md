@@ -6,6 +6,8 @@ Building SASS website to summarize scientific articles / another file.
 
 ## Note
 
+-  [x] Api Use - (https://rapidapi.com/restyler/api/article-extractor-and-summarizer/)
+
 ## Dependencies
 
 -  [x] Tailwindcss - npm install -D tailwindcss@latest postcss@latest autoprefixer@latest -> npx tailwindcss init -p
